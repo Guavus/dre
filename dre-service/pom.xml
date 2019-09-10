@@ -143,7 +143,7 @@
       <artifactId>commons-lang3</artifactId>
       <version>3.5</version>
     </dependency>
-    <dependency>
+    <!--<dependency>
       <groupId>co.cask.cdap</groupId>
       <artifactId>hydrator-test</artifactId>
       <version>${cdap.version}</version>
@@ -164,7 +164,7 @@
           <artifactId>cdap-explore-jdbc</artifactId>
         </exclusion>
       </exclusions>
-    </dependency>
+    </dependency>-->
   </dependencies>
 
   <build>
